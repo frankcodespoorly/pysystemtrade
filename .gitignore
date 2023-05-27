@@ -32,3 +32,5 @@ venv/
 **/private
 **/mongo_dump
 .bson
+log_.txt
+log_Update-Historical-prices-manually.txt
