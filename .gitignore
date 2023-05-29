@@ -1184,3 +1184,5 @@ data/backups_csv/multiple_prices/WHEAT_mini.csv
 data/backups_csv/multiple_prices/WHEAT.csv
 data/backups_csv/multiple_prices/WHEY.csv
 data/backups_csv/multiple_prices/YENEUR.csv
+log_.txt
+log_Update-Historical-prices-manually.txt
