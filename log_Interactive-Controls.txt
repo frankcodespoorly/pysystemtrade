@@ -1,0 +1,2 @@
+2023-05-31 20:46:00 {'type': 'Interactive-Controls'}  Sent email subject *CRITICAL* ERROR: {'type': 'Interactive-Controls', 'component': 'mongoControlProcessData'}: Process run_systems with PID 1014349 appears to have crashed, marking as close: you may want to restart
+2023-05-31 20:45:58 {'type': 'Interactive-Controls', 'component': 'mongoControlProcessData'} *CRITICAL* Process run_systems with PID 1014349 appears to have crashed, marking as close: you may want to restart

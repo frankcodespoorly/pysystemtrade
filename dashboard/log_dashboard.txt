@@ -1,0 +1,21 @@
+2023-05-31 20:39:09 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Locked IB client ID 9
+2023-05-31 20:39:17 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Released IB client ID 9
+2023-05-31 20:39:17 {'type': 'dashboard', 'broker': 'IB', 'clientid': 9}  Terminating {'ipaddress': 'localhost', 'port': 4001, 'client': 9}
+2023-05-31 20:39:10 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Locked IB client ID 10
+2023-05-31 20:39:19 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Released IB client ID 10
+2023-05-31 20:39:19 {'type': 'dashboard', 'broker': 'IB', 'clientid': 10}  Terminating {'ipaddress': 'localhost', 'port': 4001, 'client': 10}
+2023-05-31 20:39:13 {'type': 'dashboard'}  Sent email subject *CRITICAL* ERROR: {'type': 'dashboard', 'component': 'mongoControlProcessData'}: Process run_backups with PID 920153 appears to have crashed, marking as close: you may want to restart
+2023-05-31 20:39:15 {'type': 'dashboard'}  Sent email subject *CRITICAL* ERROR: {'type': 'dashboard', 'component': 'mongoControlProcessData'}: Process run_reports with PID 921493 appears to have crashed, marking as close: you may want to restart
+2023-05-31 20:39:18 {'type': 'dashboard'}  Sent email subject *CRITICAL* ERROR: {'type': 'dashboard', 'component': 'mongoControlProcessData'}: Process run_systems with PID 1011927 appears to have crashed, marking as close: you may want to restart
+2023-05-31 20:39:22 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Locked IB client ID 9
+2023-05-31 20:39:28 {'type': 'dashboard', 'broker': 'IB', 'clientid': 9}  Terminating {'ipaddress': 'localhost', 'port': 4001, 'client': 9}
+2023-05-31 20:39:28 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Released IB client ID 9
+2023-05-31 20:39:12 {'type': 'dashboard', 'component': 'mongoControlProcessData'} *CRITICAL* Process run_backups with PID 920153 appears to have crashed, marking as close: you may want to restart
+2023-05-31 20:39:14 {'type': 'dashboard', 'component': 'mongoControlProcessData'} *CRITICAL* Process run_reports with PID 921493 appears to have crashed, marking as close: you may want to restart
+2023-05-31 20:39:16 {'type': 'dashboard', 'component': 'mongoControlProcessData'} *CRITICAL* Process run_systems with PID 1011927 appears to have crashed, marking as close: you may want to restart
+2023-05-31 20:40:34 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Locked IB client ID 9
+2023-05-31 20:40:42 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Released IB client ID 9
+2023-05-31 20:40:42 {'type': 'dashboard', 'broker': 'IB', 'clientid': 9}  Terminating {'ipaddress': 'localhost', 'port': 4001, 'client': 9}
+2023-05-31 20:46:43 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Locked IB client ID 9
+2023-05-31 20:46:52 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Released IB client ID 9
+2023-05-31 20:46:51 {'type': 'dashboard', 'broker': 'IB', 'clientid': 9}  Terminating {'ipaddress': 'localhost', 'port': 4001, 'client': 9}
