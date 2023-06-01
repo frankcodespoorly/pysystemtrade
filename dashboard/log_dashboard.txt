@@ -19,3 +19,9 @@
 2023-05-31 20:46:43 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Locked IB client ID 9
 2023-05-31 20:46:52 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Released IB client ID 9
 2023-05-31 20:46:51 {'type': 'dashboard', 'broker': 'IB', 'clientid': 9}  Terminating {'ipaddress': 'localhost', 'port': 4001, 'client': 9}
+2023-05-31 20:46:49 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Locked IB client ID 11
+2023-05-31 20:46:55 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Released IB client ID 11
+2023-05-31 20:46:44 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Locked IB client ID 10
+2023-05-31 20:46:53 {'type': 'dashboard', 'component': 'mongoIbBrokerClientIdData'}  Released IB client ID 10
+2023-05-31 20:46:53 {'type': 'dashboard', 'broker': 'IB', 'clientid': 10}  Terminating {'ipaddress': 'localhost', 'port': 4001, 'client': 10}
+2023-05-31 20:46:55 {'type': 'dashboard', 'broker': 'IB', 'clientid': 11}  Terminating {'ipaddress': 'localhost', 'port': 4001, 'client': 11}

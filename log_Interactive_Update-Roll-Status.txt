@@ -1,1 +1,0 @@
-2023-05-21 14:40:20 {'type': 'Interactive_Update-Roll-Status'}  Running report Roll report sysproduction.reporting.roll_report.roll_report console {'instrument_code': 'CNH'}
