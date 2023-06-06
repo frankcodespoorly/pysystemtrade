@@ -1,1 +1,7 @@
-DATETIME
+DATETIME,key,trade,fill,fill_datetime,filled_price,locked,order_id,parent,children,active,order_type,algo_to_use,reference_price,limit_price,manual_trade,manual_fill,roll_order,calendar_spread_order,inter_spread_order,generated_datetime,reference_of_controlling_algo
+,rob_system/GAS_US_mini/20230800,[-2],[0],,,0.0,2,2,,False,best,sysexecution.algos.algo_original_best.algoOriginalBest,2.275,,0.0,0.0,0.0,False,0.0,2023-06-01 18:52:55.706,
+,rob_system/DOW/20230900,[-1],[0],,,0.0,3,3,,False,best,sysexecution.algos.algo_original_best.algoOriginalBest,33406.0,,0.0,0.0,0.0,False,0.0,2023-06-01 18:52:55.739,
+,rob_system/GOLD_micro/20230800,[-2],[0],,,0.0,4,4,,False,best,sysexecution.algos.algo_original_best.algoOriginalBest,1995.2,,0.0,0.0,0.0,False,0.0,2023-06-01 18:52:55.763,
+,rob_system/NASDAQ_micro/20230900,[1],[0],,,0.0,5,5,,False,best,sysexecution.algos.algo_original_best.algoOriginalBest,14667.25,,0.0,0.0,0.0,False,0.0,2023-06-01 18:52:57.108,
+,rob_system/DAX/20230900,[1],[0],,,0.0,6,6,,False,best,sysexecution.algos.algo_original_best.algoOriginalBest,16050.0,,0.0,0.0,0.0,False,0.0,2023-06-01 18:52:57.136,
+,rob_system/JPY/20230900,[-1],[0],,,0.0,7,7,,False,best,sysexecution.algos.algo_original_best.algoOriginalBest,0.007325,,0.0,0.0,0.0,False,0.0,2023-06-01 18:52:57.161,
