@@ -23,3 +23,8 @@ DATETIME,key,trade,fill,fill_datetime,filled_price,locked,order_id,parent,childr
 2023-06-21 19:11:59.867,rob_system/GAS_US_mini/20230800,[-2],[-2],2023-06-21 19:11:59.867,2.665,0.0,23,56,[14],False,balance_trade,balance_trade,,,1.0,1.0,0.0,False,0.0,2023-06-21 19:12:10.428,
 2023-06-21 19:12:55.347,rob_system/GAS_US_mini/20230800,[2],[2],2023-06-21 19:12:55.347,2.665,0.0,24,57,[15],False,balance_trade,balance_trade,,,1.0,1.0,0.0,False,0.0,2023-06-21 19:12:59.620,
 2023-06-21 19:13:17.644,rob_system/GAS_US_mini/20230900,[-2],[-2],2023-06-21 19:13:17.644,2.67,0.0,25,58,[16],False,balance_trade,balance_trade,,,1.0,1.0,0.0,False,0.0,2023-06-21 19:13:21.333,
+,rob_system/NIKKEI/20230900,[1],[0],,,0.0,26,60,,False,best,sysexecution.algos.algo_original_best.algoOriginalBest,33545.0,,0.0,0.0,0.0,False,0.0,2023-06-22 05:38:27.559,
+,rob_system/FTSETAIWAN/20230700,[1],[0],,,0.0,27,61,,False,best,sysexecution.algos.algo_original_best.algoOriginalBest,1462.75,,0.0,0.0,0.0,False,0.0,2023-06-22 05:38:27.574,
+,rob_system/CNH/20230700,[1],[0],,,0.0,28,62,,False,best,sysexecution.algos.algo_original_best.algoOriginalBest,7.1655,,0.0,0.0,0.0,False,0.0,2023-06-22 05:38:27.656,
+2023-06-22 05:39:18.000,rob_system/EURO600/20230900,[1],[1],2023-06-22 05:39:18.000,455.1,0.0,29,63,[17],False,best,sysexecution.algos.algo_original_best.algoOriginalBest,458.0,,0.0,0.0,0.0,False,0.0,2023-06-22 05:38:27.694,sysexecution.algos.algo_original_best.algoOriginalBest
+2023-06-22 05:39:27.000,rob_system/EU-BANKS/20230900,[1],[1],2023-06-22 05:39:27.000,104.7,0.0,30,64,[18],False,best,sysexecution.algos.algo_original_best.algoOriginalBest,106.1,,0.0,0.0,0.0,False,0.0,2023-06-22 05:38:27.725,sysexecution.algos.algo_original_best.algoOriginalBest
