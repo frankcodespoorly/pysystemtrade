@@ -13,7 +13,9 @@ from sysproduction.strategy_code.run_system_classic import (
     runSystemClassic,
 )
 
-from systems.provided.rob_system.forecastScaleCap import volAttenForecastScaleCap
+from systems.provided.attenuate_vol.vol_attenuation_forecast_scale_cap import (
+    volAttenForecastScaleCap,
+)
 from systems.provided.rob_system.rawdata import myFuturesRawData
 
 from sysproduction.data.contracts import dataContracts
