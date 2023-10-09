@@ -77,7 +77,7 @@ def dynamic_system(
     system = futures_system(data=sim_data, config=config)
     system._log = log
 
-    system.set_logging_level(log_level)
+#    system.set_logging_level(log_level)
 
     return system
 
@@ -115,7 +115,7 @@ def futures_system(data, config):
         data,
         config,
     )
-    system.set_logging_level("on")
+#    system.set_logging_level("on")
 
     return system
 
