@@ -28,3 +28,10 @@ venv/
 
 # libreoffice
 .~lock.*
+
+**/private
+**/mongo_dump
+.bson
+log_.txt
+log_Update-Historical-prices-manually.txt
+**/data/backups_csv/

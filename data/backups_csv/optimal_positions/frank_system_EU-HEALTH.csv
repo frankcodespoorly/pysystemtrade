@@ -1,0 +1,3 @@
+DATETIME,reference_price,reference_contract,reference_date,optimal_position,weight_per_contract,previous_position,previous_weight,reduce_only,dont_trade,position_limit_contracts,position_limit_weight,optimum_weight,minimum_weight,maximum_weight,start_weight,optimised_weight,optimised_position
+2023-06-30 19:59:29.864873,1057.9,20230900,2023-06-30,0.0031217291926513013,0.25462666567170456,0,0.0,False,False,999999999,0.0,0.0007948754954548231,-254626665.4170779,254626665.4170779,0.0,0.0,0
+2023-07-02 18:50:31.166458,1058.1,20230900,2023-06-30,0.0030548853976472747,0.25464264314416585,0,0.0,False,False,999999999,0.0,0.0007779040921594182,-254642642.8895232,254642642.8895232,0.0,0.0,0

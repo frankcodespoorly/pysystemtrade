@@ -1,0 +1,59 @@
+2023-04-26 19:40:15 {'type': 'Update-FX-Prices'} *CRITICAL* Error localhost:27017: [Errno 111] Connection refused couldn't evaluate ibFxPricesData(self.ib_conn, self, log = self.log.setup(component = ibFxPricesData)) This might be because (a) IB gateway not running, or (b) import is missing                         or (c) arguments don't follow pattern
+2023-04-26 19:41:42 {'type': 'Update-FX-Prices'}  FX Codes: ['AUDUSD', 'CADUSD', 'CHFUSD', 'EURUSD', 'GBPUSD', 'HKDUSD', 'JPYUSD', 'KRWUSD', 'CNHUSD', 'SGDUSD', 'MXPUSD']
+2023-04-26 19:41:43 {'type': 'Update-FX-Prices', 'currency_code': 'AUDUSD', 'component': 'arcticFxPricesData'}  Wrote 7516 lines of prices for AUDUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:43 {'type': 'Update-FX-Prices', 'currency_code': 'AUDUSD', 'component': 'arcticFxPricesData'}  Added fx data for code AUDUSD
+2023-04-26 19:41:43 {'type': 'Update-FX-Prices', 'currency_code': 'AUDUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for AUDUSD
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'currency_code': 'CADUSD', 'component': 'arcticFxPricesData'}  Wrote 8358 lines of prices for CADUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'currency_code': 'CADUSD', 'component': 'arcticFxPricesData'}  Added fx data for code CADUSD
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'currency_code': 'CADUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for CADUSD
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'currency_code': 'CHFUSD', 'component': 'arcticFxPricesData'}  Wrote 8359 lines of prices for CHFUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'currency_code': 'CHFUSD', 'component': 'arcticFxPricesData'}  Added fx data for code CHFUSD
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'currency_code': 'CHFUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for CHFUSD
+2023-04-26 19:41:45 {'type': 'Update-FX-Prices', 'currency_code': 'EURUSD', 'component': 'arcticFxPricesData'}  Wrote 6138 lines of prices for EURUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:45 {'type': 'Update-FX-Prices', 'currency_code': 'EURUSD', 'component': 'arcticFxPricesData'}  Added fx data for code EURUSD
+2023-04-26 19:41:45 {'type': 'Update-FX-Prices', 'currency_code': 'EURUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for EURUSD
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'currency_code': 'GBPUSD', 'component': 'arcticFxPricesData'}  Wrote 8360 lines of prices for GBPUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'currency_code': 'GBPUSD', 'component': 'arcticFxPricesData'}  Added fx data for code GBPUSD
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'currency_code': 'GBPUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for GBPUSD
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'currency_code': 'HKDUSD', 'component': 'arcticFxPricesData'}  Wrote 8357 lines of prices for HKDUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'currency_code': 'HKDUSD', 'component': 'arcticFxPricesData'}  Added fx data for code HKDUSD
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'currency_code': 'HKDUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for HKDUSD
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'currency_code': 'JPYUSD', 'component': 'arcticFxPricesData'}  Wrote 8387 lines of prices for JPYUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'currency_code': 'JPYUSD', 'component': 'arcticFxPricesData'}  Added fx data for code JPYUSD
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'currency_code': 'JPYUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for JPYUSD
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'currency_code': 'KRWUSD', 'component': 'arcticFxPricesData'}  Wrote 7437 lines of prices for KRWUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'currency_code': 'KRWUSD', 'component': 'arcticFxPricesData'}  Added fx data for code KRWUSD
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'currency_code': 'KRWUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for KRWUSD
+2023-04-26 19:41:48 {'type': 'Update-FX-Prices', 'currency_code': 'CNHUSD', 'component': 'arcticFxPricesData'}  Wrote 10893 lines of prices for CNHUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:48 {'type': 'Update-FX-Prices', 'currency_code': 'CNHUSD', 'component': 'arcticFxPricesData'}  Added fx data for code CNHUSD
+2023-04-26 19:41:48 {'type': 'Update-FX-Prices', 'currency_code': 'CNHUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for CNHUSD
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'currency_code': 'SGDUSD', 'component': 'arcticFxPricesData'}  Wrote 9161 lines of prices for SGDUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'currency_code': 'SGDUSD', 'component': 'arcticFxPricesData'}  Added fx data for code SGDUSD
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'currency_code': 'SGDUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for SGDUSD
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'currency_code': 'MXPUSD', 'component': 'arcticFxPricesData'}  Wrote 3596 lines of prices for MXPUSD to Arctic connection: host localhost, db production, collection spotfx_prices
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'currency_code': 'MXPUSD', 'component': 'arcticFxPricesData'}  Added fx data for code MXPUSD
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'currency_code': 'MXPUSD', 'component': 'arcticFxPricesData'}  Added 1 additional rows for MXPUSD
+2023-04-26 19:41:36 {'type': 'Update-FX-Prices', 'component': 'mongoIbBrokerClientIdData'}  Locked IB client ID 32
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'component': 'mongoIbBrokerClientIdData'}  Released IB client ID 32
+2023-04-26 19:41:43 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData'}  Reqid -1: 2106 HMDS data farm connection is OK:cashhmds for None
+2023-04-26 19:41:43 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'AUDUSD'}  Downloaded 260 prices
+2023-04-26 19:41:43 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'USDCAD'}  Pausing 0.390407 seconds to avoid pacing violation
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'CADUSD'}  Downloaded 260 prices
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'CHFUSD'}  Pausing 0.376390 seconds to avoid pacing violation
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'CHFUSD'}  Downloaded 260 prices
+2023-04-26 19:41:44 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'EURUSD'}  Pausing 0.414623 seconds to avoid pacing violation
+2023-04-26 19:41:45 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'EURUSD'}  Downloaded 260 prices
+2023-04-26 19:41:45 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'GBPUSD'}  Pausing 0.418436 seconds to avoid pacing violation
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'GBPUSD'}  Downloaded 260 prices
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'USDHKD'}  Pausing 0.385004 seconds to avoid pacing violation
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'HKDUSD'}  Downloaded 260 prices
+2023-04-26 19:41:46 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'USDJPY'}  Pausing 0.387193 seconds to avoid pacing violation
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'JPYUSD'}  Downloaded 260 prices
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'KRWUSD'}  Pausing 0.418435 seconds to avoid pacing violation
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'KRWUSD'}  Downloaded 259 prices
+2023-04-26 19:41:47 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'USDCNH'}  Pausing 0.414987 seconds to avoid pacing violation
+2023-04-26 19:41:48 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'CNHUSD'}  Downloaded 260 prices
+2023-04-26 19:41:48 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'USDSGD'}  Pausing 0.395124 seconds to avoid pacing violation
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'SGDUSD'}  Downloaded 260 prices
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'USDMXN'}  Pausing 0.409928 seconds to avoid pacing violation
+2023-04-26 19:41:49 {'type': 'Update-FX-Prices', 'component': 'ibFxPricesData', 'currency_code': 'MXPUSD'}  Downloaded 260 prices
