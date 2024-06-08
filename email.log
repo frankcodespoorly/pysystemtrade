@@ -1,0 +1,36 @@
+********************************************************************************
+Email stored not sent on 2024-06-08 09:50:34.176826: Price Spike GAS-LAST
+
+Spike found in prices for GAS-LAST/20240800: need to manually check by running interactive_manual_check_historical_prices
+********************************************************************************
+
+********************************************************************************
+Email stored not sent on 2024-06-08 09:57:29.219007: Price Spike MILKWET
+
+Spike found in prices for MILKWET/20240800: need to manually check by running interactive_manual_check_historical_prices
+********************************************************************************
+
+********************************************************************************
+Email stored not sent on 2024-06-08 09:57:31.462049: Price Spike MILKWET
+
+To reduce email load, won't send any more emails with this subject today. Use 'interactive_diagnostics', 'Emails' to see stored messages
+********************************************************************************
+
+********************************************************************************
+Email stored not sent on 2024-06-08 09:57:31.464762: Price Spike MILKWET
+
+Spike found in prices for MILKWET/20240900: need to manually check by running interactive_manual_check_historical_prices
+********************************************************************************
+
+********************************************************************************
+Email stored not sent on 2024-06-08 10:12:49.663422: Price Spike WHEY
+
+Spike found in prices for WHEY/20240700: need to manually check by running interactive_manual_check_historical_prices
+********************************************************************************
+
+********************************************************************************
+Email stored not sent on 2024-06-08 10:17:46.323588: Price Spike MXP
+
+Spike found in prices for MXP/20240600: need to manually check by running interactive_manual_check_historical_prices
+********************************************************************************
+

@@ -1,0 +1,9 @@
+# git pull within git controlled private directory copy
+cd ~/private/
+git pull
+# copy the updated contents of the private directory to pysystemtrade private directory
+# use rsync to avoid overwriting git metadata
+rsync -av ~/private/ ~/pysystemtrade/private --exclude .git
+# git pull from main pysystemtrade github repo
+cd ~/pysystemtrade/
+git pull
