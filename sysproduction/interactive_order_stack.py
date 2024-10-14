@@ -531,6 +531,7 @@ def enter_manual_contract_order(data, instrument_order):
         order_type=order_type,
         reference_price=None,
         limit_price=limit_price,
+
         manual_trade=True,
     )
 

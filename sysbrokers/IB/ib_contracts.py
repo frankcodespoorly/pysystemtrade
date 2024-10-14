@@ -19,6 +19,7 @@ VIX_CODE = "VIX"
 EUREX_CODES_WITH_DAILYS = ["MSCIWORLD", "MSCIASIA"]
 EUREX_DAY_FLAG = "D"
 
+GAS_US_CODE = "GAS_US"
 
 def resolve_multiple_expiries(
     ibcontract_list: list,
@@ -40,6 +41,9 @@ def resolve_multiple_expiries(
         resolved_contract = resolve_multiple_expiries_for_VIX(ibcontract_list)
     elif code in EUREX_CODES_WITH_DAILYS:
         resolved_contract = resolve_multiple_expiries_for_EUREX(ibcontract_list)
+    elif code== GAS_US_CODE:
+        resolved_contract = resolve_multiple_expiries_for_GAS_US(ibcontract_list)
+
     else:
         raise Exception(
             "You have specified weekly expiries, but I don't have logic for %s" % code
@@ -62,6 +66,12 @@ def resolve_multiple_expiries_for_VIX(ibcontract_list: list) -> ibContract:
         ibcontract_list=ibcontract_list, is_monthly_function=_is_vix_symbol_monthly
     )
 
+    return resolved_contract
+
+def resolve_multiple_expiries_for_GAS_US(ibcontract_list: list) -> ibContract:
+    resolved_contract = resolve_multiple_expiries_for_generic_futures(
+        ibcontract_list=ibcontract_list, is_monthly_function=_is_gas_us_symbol_monthly
+)
     return resolved_contract
 
 
@@ -103,6 +113,16 @@ def _is_eurex_symbol_monthly(symbol: str):
     is_monthly = not is_daily
 
     return is_monthly
+
+def _is_gas_us_symbol_monthly(symbol: str):
+    if re.match("HHW[A-Z][0-9][0-9][0-9]", symbol):
+        # weekly
+        return False
+    elif re.match("NG[A-Z][0-9]", symbol):
+        # monthly
+        return True
+    else:
+        raise Exception("IB Local Symbol %s not recognised" % symbol)
 
 
 def _is_eurex_symbol_daily(symbol: str):
